@@ -1,4 +1,10 @@
 numpy
+pandas
 opencv-python
 tensorflow
 matplotlib
+Pillow
+tqdm
+argparse
+pickle
+requests
